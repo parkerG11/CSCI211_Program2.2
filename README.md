@@ -1,1 +1,1 @@
-# SCSCI211_Program2.2
+# CSCI211_Program2.2
